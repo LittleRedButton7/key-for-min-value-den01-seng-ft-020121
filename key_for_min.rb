@@ -9,6 +9,6 @@ def key_for_min_value(name_hash)
       num_to_compare_to = value
       key_to_print = key
     end
-  puts key_to_print
+  
   end
 end
